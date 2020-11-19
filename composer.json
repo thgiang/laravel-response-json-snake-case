@@ -1,0 +1,12 @@
+{
+    "name": "thgiang/laravel-response-json-snake-case",
+    "version": "1.0.0",
+    "description": "Convert response JSON key to snake-case",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "THGiang\\LaravelSnakeCaseJson\\": "src/"
+      }
+    }
+}
